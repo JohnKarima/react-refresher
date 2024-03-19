@@ -1,11 +1,9 @@
-// import Button from './Button'
-import ProfilePicture from './ProfilePicture'
-
+import MyComponent from './assets/MyComponent'
 
 function App() {
     return (
         <>
-            <ProfilePicture></ProfilePicture>
+            <MyComponent></MyComponent>
         </>
     )
 }
