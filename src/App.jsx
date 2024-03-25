@@ -1,9 +1,10 @@
-import MyComponent from './MyComponent'
+import ColorPicker from "./ColorPicker"
+import "./index.css"
 
 function App() {
     return (
         <>
-            <MyComponent/>
+        <ColorPicker></ColorPicker>
         </>
     )
 }
